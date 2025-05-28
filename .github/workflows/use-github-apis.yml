@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
 
-# Limit the permissions of the GITHUB_TOKEN
+# Limit the permissions of the GITHUB_TOKEN test
 permissions:
   contents: read
   issues: write
